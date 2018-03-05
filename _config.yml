@@ -1,6 +1,6 @@
 title: Systems Guy
 url: "asystemsguy.github.io"
-baseurl: ""
+baseurl: "/"
 
 markdown: kramdown
 
