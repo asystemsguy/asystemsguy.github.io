@@ -1,11 +1,16 @@
-- name: "Resume"
-  link: "https://github.com/asystemsguy/CV/raw/master/resume.pdf"
-
-- name: "Projects"
-  link: "/projects/"
+- name: "Contact"
+  link: "contact"
 
 - name: "Blog"
   link: "https://medium.com/@devkhv129"
 
-- name: "Contact"
-  link: "contact"
+- name: "Projects"
+  link: "/projects/"
+  
+- name: "Resume"
+  link: "https://github.com/asystemsguy/CV/raw/master/resume.pdf"
+
+
+
+
+
