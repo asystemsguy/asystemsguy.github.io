@@ -1,6 +1,3 @@
-- name: "Home"
-  link: "/"
-
 - name: "Resume"
   link: "https://github.com/asystemsguy/CV/raw/master/resume.pdf"
 
