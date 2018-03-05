@@ -3,19 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [devkhv129@gmail.com](mailto:devkhv19@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-6046797845](tel:+1-6046797845)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 204-2225, Acadia road
 >
-> London
+> Vancouver
 >
-> United Kingdom
+> Canada
 
 ---
 
