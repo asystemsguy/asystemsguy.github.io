@@ -2,7 +2,7 @@
   link: "contact"
 
 - name: "Resume"
-  link: "resume.pdf"
+  link: "https://github.com/asystemsguy/CV/blob/master/resume.pdf"
 
 - name: "About"
   link: "/researcher/"
