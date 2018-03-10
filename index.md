@@ -18,5 +18,16 @@ I spend most of my
 
 ## Contact
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+* Email: [devkhv129@gmail.com](mailto:devkhv19@gmail.com)
+
+* Phone: [+1-6046797845](tel:+1-6046797845)
+
+---
+
+## Social
+
+1. [Facebook](https://www.facebook.com/khv129)
+2. [Twitter](https://twitter.com/devkhv129)
+3. [LinkedIn](www.linkedin.com/in/devkhv129)
+
+
