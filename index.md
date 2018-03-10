@@ -12,9 +12,13 @@ I work as a research assistant in [The Reliable, Secure, and Sustainable Softwar
 
 Before coming UBC, I worked on Distributed embedded systems with [Siemens](https://en.wikipedia.org/wiki/Siemens) in there [advanced therapies division](https://www.healthcare.siemens.com/angio).  
 
+---
+
 ## Research Interest
 
 My current research is about improving resource utilization and performance of Microservice applications deployed in cloud. I am in general interested in distributed, concurrent and parallel systems. 
+
+---
 
 ## Contact
 
