@@ -14,7 +14,7 @@ Before coming UBC, I worked on Distributed embedded systems with [Siemens](https
 
 ## Research Interest
 
-My main research is about improving resource utilization and performance of microservice applications deployed on virtual clusters. I am interested in distributed , concurrent and parallel systems. 
+My main research is about improving resource utilization and performance of microservice applications deployed on virtual clusters. I am interested in distributed, concurrent and parallel systems. 
 
 ## Contact
 
