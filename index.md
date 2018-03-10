@@ -10,11 +10,11 @@ Hello, I am a masters student in [Computer engineering department](https://www.e
 
 I work as a research assistant in [The Reliable, Secure, and Sustainable Software Lab](http://www.ece.ubc.ca/~mjulia/ReSeSS.html) with [Dr. Julia Rubin](http://www.ece.ubc.ca/~mjulia/index.html) on topics like Distributed systems, Cloud-native architectures(Microservices) and Android kernel.
 
-Before coming UBC, i worked on distributed embedded systems with [Siemens](https://en.wikipedia.org/wiki/Siemens) in there [advanced therapies division](https://www.healthcare.siemens.com/angio).  
+Before coming UBC, I worked on Distributed embedded systems with [Siemens](https://en.wikipedia.org/wiki/Siemens) in there [advanced therapies division](https://www.healthcare.siemens.com/angio).  
 
 ## Research Interest
 
-I spend most of my 
+My main research is about improving resource utilization and performance of microservice applications deployed on virtual clusters. I am interested in distributed , concurrent and parallel systems. 
 
 ## Contact
 
