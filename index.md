@@ -28,6 +28,6 @@ I spend most of my
 
 1. [Facebook](https://www.facebook.com/khv129)
 2. [Twitter](https://twitter.com/devkhv129)
-3. [LinkedIn](www.linkedin.com/in/devkhv129)
-
+3. [LinkedIn](https://www.linkedin.com/in/devkhv129)
+4. [GitHub](https://github.com/asystemsguy)
 
