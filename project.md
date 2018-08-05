@@ -14,4 +14,3 @@ Named data networking(NDN) is a future Internet architecture which is aimed at r
 * __MPI Cluster Network Simulator Using Linux Traffic Control__
 
 This project is to simulate network properties such as delay, jitter, packet loss in MPI applications deployed over a virtual cluster. It is achieved by using Linux Kernel Traffic module and implemented in Python, See the code in [GitHub repo](https://github.com/asystemsguy/MPI-network-simulator).
-
