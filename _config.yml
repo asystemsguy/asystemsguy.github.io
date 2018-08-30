@@ -4,7 +4,7 @@ baseurl: "/"
 
 markdown: kramdown
 
-tracking_id: #
+local: "yes"
 
 sass:
     style: compressed
