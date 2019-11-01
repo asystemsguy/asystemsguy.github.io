@@ -1,5 +1,7 @@
 # Systems Guy
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cee6f742-be30-4555-8e73-34ffde1a837d/deploy-status)](https://app.netlify.com/sites/harsha/deploys)
+
 Link to the site
 ### (http://asystemsguy.github.io)
 
