@@ -2,6 +2,7 @@ baseURL = "http://harsha.ca/"
 languageCode = "en-us"
 title = "harsha.ca"
 theme = "hello-friend-ng"
+staticDir = ["Resume"]
 
 [params]
   dateform        = "October 2, 2019"
@@ -40,7 +41,8 @@ theme = "hello-friend-ng"
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about"
+    url        = "/about"
+
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
@@ -49,4 +51,4 @@ theme = "hello-friend-ng"
   [[menu.main]]
     identifier = "resume"
     name       = "Resume"
-    url        = "resume" 
+    url        = "resume.pdf" 
