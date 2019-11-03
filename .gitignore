@@ -1,3 +1,6 @@
+.aux
+.log
+.out
 public/*
 _site
 .sass-cache

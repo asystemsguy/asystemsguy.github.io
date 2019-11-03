@@ -1,0 +1,195 @@
+%-------------------------
+% Resume in Latex
+% Author : Harsha
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item\small{
+    \textbf{#1}{: #2 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  CV STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+  \textbf{\href{https://asystemsguy.github.io/}{\Large Harsha}} & Email : \href{mailto:devkhv129@gmail.com}{devkhv129@gmail.com}\\
+  \href{http://harsha.ca}{http://harsha.ca} & Mobile : +1-604-679-7845 \\
+\end{tabular*}
+
+
+%-----------EDUCATION-----------------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of British Columbia}{Vancouver, BC, Canada}
+      {Master of Applied Science in Computer Engineering;  Percentage: 88.5\% }{Sept. 2017 -- Present}
+    \resumeSubheading
+      {Manipal Institute of Technology}{Manipal, India}
+      {Bachelor of Technology in Computer Science;  GPA: 8.86/10.0 }{June. 2011 -- July. 2015}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+     \resumeSubheading
+      {Samsung Research}{Vancouver, BC, Canada}
+      {Mitacs Research Intern}{Nov 2018 - Present}
+      \resumeItemListStart
+        \resumeItem{Resource mangement and cost optimization of cloud infrastructure}
+        {This research project is aimed at extending kubernetes to reduce the total cost of operation for running a large microservices application.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {University of British Columbia}{Vancouver, BC, Canada}
+      {Research and Teaching Assistant}{Sept 2017 - Present}
+      \resumeItemListStart
+        \resumeItem{Research Assistant - Distributed Cloud Native Systems}
+          {Participated in research on cluster schedulers for \textbf{Microservices} applications under Dr.Julia Rubin. Involved in creation of models for inter-dependencies between services and strategies to improve performance and resource utilization in shared cluster deployments. Currently developing extensions to \textbf{Kubernetes} in \textbf{GOLANG} to integrate with DevOps pipelines in public clouds.}
+        \resumeItem{Lead student - IBM CAS Fellowship Project}
+          {Led a team of three to work with IBM cloud for identifying reliability issues in their Microservices deployments.}
+        \resumeItem{Teaching Assistant - Computer Networks, Engineering Design Studio, and software engineering}
+          {Each of the courses has more than 80 third year undergrads enrolled. Involved in creating assignment, exams and conducting lab sessions.}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Siemens}{Bangalore, India}
+      {Systems Software Engineer}{July 2015 - July 2017}
+      \resumeItemListStart
+        \resumeItem{System Control Unit for Siemens Artis Zeego}
+          {Part of a 15 member globally distributed (Germany, America and India)team working on real-time control software for x-ray systems. Control system contains more than 600k lines of \textbf{C++} code and had strict coding requirements to ensure safety standards of the product. I solved more than 60 production issues and implemented 13 new features in the product.}
+        \resumeItem{X-ray Generator Simulation}
+          {Started as a personal side project and meant to provide a software based simulation to replace costly hardware solution used for x-ray testing. The simulator is built in \textbf{C++} and uses CANopen network stack, control state machine to simulate actions of an x-ray generator. It is now integrated into automated deployment process and used for daily testing replacing costly hardware simulator.}
+         \resumeItem{CANOPEN network stack}
+          {Control area network is primarily used for real time communication between safety critical components in a control system. CANOPEN is standard protocol specification for the CAN. I implemented CANopen network stack in \textbf{C++} for communication between x-ray switch and generator.}       
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {SanDisk}{Bangalore, India}
+      {Graduate Intern}{Jan 2015 - June 2015}
+      \resumeItemListStart
+        \resumeItem{Firmware Validation Framework for Flash Translation Layer}
+          {Implemented a test framework in c++ to simulate solid state drives for automated testing of SSD device firmware.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------AWARDS--------------------
+\section{Awards}
+  \resumeSubHeadingListStart
+    \resumeSubItem{Innovation Ambassador - Siemens - 2016}
+      {Awarded for proposing and implementing a prototype which has a business impact on the company (cost reduction).}
+    \resumeSubItem{Instant Purskar Award - Siemens - 2015}
+      {Awarded as a recognition for quick adaption into working domain and contributions to the main project.}
+  \resumeSubHeadingListEnd
+
+%--------PUBLICATIONS------------------
+\section{Publications}
+  \resumeSubHeadingListStart
+    \resumeSubItem {Supporting Microservice Evolution} {published in 33rd IEEE International Conference on Software Maintenance and Evolution. 
+    See \textbf{\href{http://ieeexplore.ieee.org/abstract/document/8094458}{http://ieeexplore.ieee.org/abstract/document/8094458}.}
+    }
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------------
+\section{Recent Projects}
+  \resumeSubHeadingListStart
+    \resumeSubItem{Energy Management System for Android Kernel}
+      {This project is aimed at creating a system to enable assigning and enforcement of strict energy quotas for android apps. 
+      These fixed energy quotas are assigned by users to save energy used by fewer priority apps.
+      This project is implemented as an \textbf{Android kernel module and completely in C}.}
+    \resumeSubItem{REST Framework Over Named Data Networking}
+      {Named data networking(NDN) is a future Internet architecture which is aimed at routing based on content names rather than IP addresses. 
+       NDN can be an ideal network between microservices as it has in-built support for features such as service discovery, load balancing ...etc. 
+       In this project, we implemented a framework to enable existing microservice applications to be deployed on NDN with minimal effort.
+       To achieve this we implemented REST support for NDN network and a new flow balancing algorithm to address needs of REST based applications.
+       It is implemented in \textbf{C++ and Python}. 
+       See the code at \textbf{\href{https://github.com/asystemsguy/Microservices-over-NDN}{https://github.com/asystemsguy/Microservices-over-NDN.}}
+      }
+    \resumeSubItem{MPI Cluster Network Simulator Using Linux Traffic Control}
+      {This project is to simulate network properties such as delay, jitter, packet loss in MPI applications deployed over a virtual cluster.
+       It is achieved by using Linux Kernel Traffic module and implemented in \textbf{Python}, 
+       See the code at \textbf{\href{ https://github.com/asystemsguy/MPI-network-simulator}{https://github.com/asystemsguy/MPI-network-simulator.}}}
+    \resumeSubItem{Comparision of Graph database for pattern matching application}
+      {Detecting patterns in graphs have many applications such as analyzing traffic patterns etc.. Real world large graphs often stored in a graph database for easier querying and management. In this project, we took a large IMDB graph and analyzed the performance of two popular graph database in detecting patterns.}
+ \resumeSubHeadingListEnd
+
+
+%--------PROGRAMMING SKILLS------------
+\section{Skills}
+  \resumeSubHeadingListStart
+    \item{
+      \textbf{Programming Languages}{: C/C++, Go, Python }
+      \hfill
+      }
+    \item{
+    \textbf{Technologies}{: Google cloud, Kubernetes, Docker}
+    }
+ \resumeSubHeadingListEnd
+
+
+%-------------------------------------------
+\end{document}
