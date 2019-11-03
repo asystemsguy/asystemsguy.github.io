@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master
+  branch: code
 publish_mode: editorial_workflow
 media_folder: "images"
 media_folder: "images" # Media files will be stored in the repo under static/images/uploads
