@@ -16,20 +16,4 @@ Before coming to UBC, I worked on Distributed embedded systems with [Siemens](ht
 
 My current research is about improving resource utilization and performance of Microservice applications deployed in cloud. I am in general interested in distributed, concurrent and parallel systems. 
 
----
-
-## Contact
-
-* Email: [devkhv129@gmail.com](mailto:devkhv19@gmail.com)
-
-* Phone: [+1-6046797845](tel:+1-6046797845)
-
----
-
-## Social
-
-1. [Facebook](https://www.facebook.com/khv129)
-2. [Twitter](https://twitter.com/devkhv129)
-3. [LinkedIn](https://www.linkedin.com/in/devkhv129)
-4. [GitHub](https://github.com/asystemsguy)
 

@@ -4,6 +4,28 @@ title = "harsha.ca"
 theme = "hello-friend-ng"
 staticDir = ["Resume"]
 
+# Social icons
+[[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/devkhv129"
+
+[[params.social]]
+    name = "email"
+    url  = "mailto:devkhv129@gmail.com"
+
+[[params.social]]
+    name = "github"
+    url  = "https://github.com/asystemsguy"
+
+[[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/devkhv129/"
+
+[[params.social]]
+    name = "stackoverflow"
+    url  = "https://stackoverflow.com/users/4425037/harsha"
+
+
 [params]
   dateform        = "October 2, 2019"
   dateformShort   = "Oct 2"
@@ -29,7 +51,7 @@ staticDir = ["Resume"]
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "harsha"
+      logoText = "A systems guy"
       logoHomeLink = "/"
     # or
     #
