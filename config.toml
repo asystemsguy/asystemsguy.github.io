@@ -53,12 +53,10 @@ staticDir = ["Resume"]
     [languages.en.params.logo]
       logoText = "A systems guy"
       logoHomeLink = "/"
-    # or
-    #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-# And you can even create generic menu
+# generic menu
 [menu]
   [[menu.main]]
     identifier = "about"
@@ -70,10 +68,10 @@ staticDir = ["Resume"]
     name       = "Public key"
     url        = "https://keybase.io/devkhv129/pgp_keys.asc"
 
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+  #[[menu.main]]
+  #  identifier = "blog"
+  #  name       = "Blog"
+  #  url        = "/posts"
 
   [[menu.main]]
     identifier = "resume"
