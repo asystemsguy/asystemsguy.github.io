@@ -1,6 +1,6 @@
 ---
-title: "Example"
-date: 2019-11-02T23:21:19-07:00
+title: "Bayes"
+date: 2019-11-05T13:24:24-08:00
 draft: true
 toc: false
 images:
