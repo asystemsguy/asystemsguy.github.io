@@ -68,10 +68,10 @@ staticDir = ["Resume"]
     name       = "Public key"
     url        = "https://keybase.io/devkhv129/pgp_keys.asc"
 
-  [[menu.main]]
-    identifier = "blog"
-    name       = "Blog"
-    url        = "/posts"
+  #[[menu.main]]
+  #  identifier = "blog"
+  #  name       = "Blog"
+  #  url        = "/posts"
 
   [[menu.main]]
     identifier = "resume"
